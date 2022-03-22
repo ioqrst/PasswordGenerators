@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="style.css" />
+		-->
+		<title>Password Generator</title>
+	</head>
+
+	<body>
+		<div class="content">
+			<div class="recomendations">
+				<h4>Рекомендации по созданию пароля.</h4>
+				<ul>
+					<li>
+						При создании пароля нужно использовать не менее 10 символов, оптимально 18 или 24.
+					</li>
+					<li>
+						При создании пароля нужно использовать большие и маленькие буквы, цифры, специальные символы.
+					</li>
+				</ul>
+			</div>
+
+			<div class="configs">
+				<div class="conf UpperCase">
+					<h3>A..Z</h3>
+					<input id="toggle" type="checkbox" />
+				</div>
+
+				<div class="conf LowerCase">
+					<h3>a..z</h3>
+					<input id="toggle" type="checkbox" />
+				</div>
+
+				<div class="conf Numbers">
+					<h3>0..9</h3>
+					<input id="toggle" type="checkbox" />
+				</div>
+
+				<div class="conf SpecialSymbols">
+					<h3>!#$%&()*+-.=?@_</h3>
+					<input id="toggle" type="checkbox" />
+				</div>
+
+				<div class="conf Lenght">
+					<h3>Длинна пароля</h3>
+					<input id="toggle" type="number" />
+				</div>
+			</div>
+			<div class="results">
+				<textarea name="" id="passes" cols="100" rows="40"></textarea>
+			</div>
+			<dib class="button">
+				<button id="generate">СОЗДАТЬ</button>
+			</dib>
+		</div>
+		<script src="app.js" defer></script>
+	</body>
+</html>

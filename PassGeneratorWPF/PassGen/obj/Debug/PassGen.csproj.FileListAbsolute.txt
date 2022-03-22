@@ -1,0 +1,14 @@
+D:\Other\VSProjects\PassGen\PassGen\bin\Debug\PassGen.exe.config
+D:\Other\VSProjects\PassGen\PassGen\bin\Debug\PassGen.exe
+D:\Other\VSProjects\PassGen\PassGen\bin\Debug\PassGen.pdb
+D:\Other\VSProjects\PassGen\PassGen\obj\Debug\PassGen.csprojAssemblyReference.cache
+D:\Other\VSProjects\PassGen\PassGen\obj\Debug\MainWindow.g.cs
+D:\Other\VSProjects\PassGen\PassGen\obj\Debug\App.g.cs
+D:\Other\VSProjects\PassGen\PassGen\obj\Debug\PassGen_MarkupCompile.cache
+D:\Other\VSProjects\PassGen\PassGen\obj\Debug\MainWindow.baml
+D:\Other\VSProjects\PassGen\PassGen\obj\Debug\PassGen.g.resources
+D:\Other\VSProjects\PassGen\PassGen\obj\Debug\PassGen.Properties.Resources.resources
+D:\Other\VSProjects\PassGen\PassGen\obj\Debug\PassGen.csproj.GenerateResource.cache
+D:\Other\VSProjects\PassGen\PassGen\obj\Debug\PassGen.csproj.CoreCompileInputs.cache
+D:\Other\VSProjects\PassGen\PassGen\obj\Debug\PassGen.exe
+D:\Other\VSProjects\PassGen\PassGen\obj\Debug\PassGen.pdb

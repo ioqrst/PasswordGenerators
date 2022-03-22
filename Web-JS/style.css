@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #363636;
+}
+
+.content {
+  display: grid;
+  justify-content: center;
+
+  margin-top: 0%;
+}
+
+.recomendations {
+  display: grid;
+  color: palegreen;
+  margin-bottom: 25px;
+}
+
+.recomendations h4 {
+  justify-self: center;
+  margin: 0 0 10px 0;
+}
+
+.recomendations ul {
+  justify-self: center;
+}
+
+.configs {
+  display: grid;
+  grid-template-columns: repeat(5, 20%);
+  justify-items: center;
+
+  margin-bottom: 20px;
+}
+
+.conf {
+  display: grid;
+  justify-content: center;
+  color: palegreen;
+}
+
+.conf input {
+  color: palegreen;
+  border: palegreen 1px solid;
+  background: rgb(54, 54, 54);
+}
+
+.results textarea {
+  color: palegreen;
+  resize: none;
+  border: palegreen 1px solid;
+  background: rgb(54, 54, 54);
+}
+
+.button {
+  display: grid;
+}
+
+button {
+  color: palegreen;
+  background-color: transparent;
+  border-color: palegreen;
+
+  padding: 15px;
+}
+
+button:hover {
+  background-color: palegreen;
+  color: #363636;
+}
