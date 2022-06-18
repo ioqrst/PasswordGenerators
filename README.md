@@ -1,8 +1,11 @@
 # PasswordGenerators
 
-Simple password generators for those who are too lazy to invent themselves
+Простые генераторы пароле (уже даже не помню когда написынные) для тех, кому лень придумывать самому.
 
-Performed on:
+Собрано все на:
 * C# + WPF
 * C# + WinForms + MaterialSkin
 * HTML + CSS + JS
+
+### Для любителей безопасности.
+В отлинии от многих сервисов конкретно я никакие данные не собираю (да мне и хранить их даже негде) ... Хотя на счет MaterialSkin я не уверен, так как сторонняя библиотека.
